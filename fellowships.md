@@ -55,3 +55,4 @@
 ## Mathematics
 
 - [ACF Woodcock Family Education Scholarship Program](http://albuquerquefoundation.org/woodcock-family-education-scholarship-program.aspx)
+- [American Association of University Women Fellowships](https://www.aauw.org/what-we-do/educational-funding-and-awards/american-fellowships/)
